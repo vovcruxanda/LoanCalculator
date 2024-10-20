@@ -1,7 +1,3 @@
-Here is a structured explanation of your code for a README file:
-
----
-
 # Loan Calculator App - Flutter
 
 This is a simple **Loan Calculator** application built using the Flutter framework. It allows users to input the loan amount, interest percentage, and loan duration to calculate the monthly payment.
